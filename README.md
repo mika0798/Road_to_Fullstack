@@ -15,5 +15,5 @@ This repository contains front-end, back-end and full-stack projects from roadma
     <img src="https://raw.githubusercontent.com/mika0798/Road_to_Fullstack/refs/heads/main/freecodecamp.org/Responsive%20Web%20Design/Cat%20Photo%20App/Screenshot%20cat-photo-app.png" width=20%>
   <li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu" >Cafe Menu</a> - <a href="https://github.com/mika0798/Road_to_Fullstack/tree/main/freecodecamp.org/Responsive%20Web%20Design/Cat%20Photo%20App">Solution<a></li>
     <br>
-    <img src="https://raw.githubusercontent.com/mika0798/Road_to_Fullstack/refs/heads/main/freecodecamp.org/Responsive%20Web%20Design/Cat%20Photo%20App/Screenshot%20cat-photo-app.png" width=20%>
+    <img src="https://raw.githubusercontent.com/mika0798/Road_to_Fullstack/refs/heads/main/freecodecamp.org/Responsive%20Web%20Design/Cafe%20Menu/Screenshot%20cafe-menu.png" width=20%>
 </ol>
