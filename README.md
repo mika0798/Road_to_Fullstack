@@ -11,9 +11,12 @@ This repository contains front-end, back-end and full-stack projects from roadma
 <h2>Responsive Web Design</h2>
 <ol>
   <li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app" >Simple Cat Photo App</a> - <a href="https://github.com/mika0798/Road_to_Fullstack/tree/main/freecodecamp.org/Responsive%20Web%20Design/Cat%20Photo%20App">Solution<a></li>
-    <br>
-    <img src="https://raw.githubusercontent.com/mika0798/Road_to_Fullstack/refs/heads/main/freecodecamp.org/Responsive%20Web%20Design/Cat%20Photo%20App/Screenshot%20cat-photo-app.png" width=20%>
+  <br>
+  <img src="https://raw.githubusercontent.com/mika0798/Road_to_Fullstack/refs/heads/main/freecodecamp.org/Responsive%20Web%20Design/Cat%20Photo%20App/Screenshot%20cat-photo-app.png" width=20%>
   <li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu" >Cafe Menu</a> - <a href="https://github.com/mika0798/Road_to_Fullstack/tree/main/freecodecamp.org/Responsive%20Web%20Design/Cat%20Photo%20App">Solution<a></li>
-    <br>
-    <img src="https://raw.githubusercontent.com/mika0798/Road_to_Fullstack/refs/heads/main/freecodecamp.org/Responsive%20Web%20Design/Cafe%20Menu/Screenshot%20cafe-menu.png" width=20%>
+  <br>
+  <img src="https://raw.githubusercontent.com/mika0798/Road_to_Fullstack/refs/heads/main/freecodecamp.org/Responsive%20Web%20Design/Cafe%20Menu/Screenshot%20cafe-menu.png" width=20%>
+  <li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-css-colors-by-building-a-set-of-colored-markers" >Set Of Colored Markers</a> - <a href="https://github.com/mika0798/Road_to_Fullstack/tree/main/freecodecamp.org/Responsive%20Web%20Design/Set%20Of%20Colored%20Markers">Solution<a></li>
+  <br>
+  <img src="https://raw.githubusercontent.com/mika0798/Road_to_Fullstack/refs/heads/main/freecodecamp.org/Responsive%20Web%20Design/Set%20Of%20Colored%20Markers/Screenshot%20set_of_colored-markers.png" width=20%>
 </ol>
