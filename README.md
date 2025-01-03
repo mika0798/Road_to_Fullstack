@@ -18,5 +18,5 @@ This repository contains front-end, back-end and full-stack projects from roadma
   <img src="https://raw.githubusercontent.com/mika0798/Road_to_Fullstack/refs/heads/main/freecodecamp.org/Responsive%20Web%20Design/Cafe%20Menu/Screenshot%20cafe-menu.png" width=20%>
   <li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-css-colors-by-building-a-set-of-colored-markers" >Set Of Colored Markers</a> - <a href="https://github.com/mika0798/Road_to_Fullstack/tree/main/freecodecamp.org/Responsive%20Web%20Design/Set%20Of%20Colored%20Markers">Solution<a></li>
   <br>
-  <img src="https://raw.githubusercontent.com/mika0798/Road_to_Fullstack/refs/heads/main/freecodecamp.org/Responsive%20Web%20Design/Set%20Of%20Colored%20Markers/Screenshot%20set_of_colored-markers.png" width=20%>
+  <img src="https://raw.githubusercontent.com/mika0798/Road_to_Fullstack/refs/heads/main/freecodecamp.org/Responsive%20Web%20Design/Set%20Of%20Colored%20Markers/Screenshot%20set_of_colored-markers1.png" width=20%>
 </ol>
