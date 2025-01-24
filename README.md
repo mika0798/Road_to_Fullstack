@@ -22,5 +22,8 @@ This repository contains front-end, back-end and full-stack projects from roadma
   <li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-forms-by-building-a-registration-form">Registration Form</a> - <a href="https://github.com/mika0798/Road_to_Fullstack/tree/main/freecodecamp.org/Responsive%20Web%20Design/Registration%20Form">Solution</a></li>
   <br>
   <img src="https://raw.githubusercontent.com/mika0798/Road_to_Fullstack/refs/heads/main/freecodecamp.org/Responsive%20Web%20Design/Registration%20Form/Screenshot%20registration_form.png" width=20%>
+  <li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design#build-a-survey-form-project">Survey Form (Certification Project)</a> - <a href="https://github.com/mika0798/Road_to_Fullstack/tree/main/freecodecamp.org/Responsive%20Web%20Design/Survey%20Form%20(Certification%20Project%20Number%201)">Solution</a></li>
+  <br>
+  <img src="https://raw.githubusercontent.com/mika0798/Road_to_Fullstack/refs/heads/main/freecodecamp.org/Responsive%20Web%20Design/Survey%20Form%20(Certification%20Project%20Number%201)/Screenshot%202025-01-24%20at%2023-36-25%20survey-form.png" width=20%>
   </ol>
   
